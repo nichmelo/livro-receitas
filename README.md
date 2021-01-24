@@ -1,2 +1,4 @@
-# livro-receitas
-Conceitos de Git e GitHub
+# Livro de Receitas
+
+Olá! Bem-vindo ao meu livro de receitas.
+ - Strogonoff de Frango
